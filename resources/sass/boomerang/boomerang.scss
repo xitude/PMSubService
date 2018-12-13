@@ -1,0 +1,14 @@
+// SASS variables
+@import "variables/_variables.scss";
+@import "variables/_custom.scss";
+
+// Navigations
+@import "header/_nav-default.scss"; 
+@import "header/_nav-aside.scss";
+@import "header/nav-fullscreen.scss";
+
+// Main styles
+@import "core/_base.scss";
+
+// User's custom styles
+@import "core/_custom.scss";

@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import "boomerang";
+
+// Imports
+@import "~animate.css/animate.min.css";
+@import "~toastr/toastr";
+@import "~metismenu/dist/metisMenu.min.css";
+@import "pace";
+
+// Theme
+/*@import 'test';
+@import 'theme';*/
+@import "buttons";
+@import 'theme';
+

@@ -1,0 +1,12 @@
+#sidebar-menu{
+  height: calc(100vh - 47px);
+  background-color: rgb(230,230,230);
+  overflow-x: hidden;
+  overflow-y: hidden;
+  &:hover{
+    overflow-y: scroll;
+  }
+  &.hide_sidebar{
+    display: none !important;
+  }
+}
